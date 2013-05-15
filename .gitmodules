@@ -4,3 +4,6 @@
 [submodule "sites/all/libraries/twitteroauth"]
 	path = sites/all/libraries/twitteroauth
 	url = git@github.com:casterx/twitteroauth.git
+[submodule "sites/migrate_social/modules/custom/migrate_social"]
+	path = sites/migrate_social/modules/custom/migrate_social
+	url = thmnhat@git.drupal.org:sandbox/thmnhat/1995604.git
