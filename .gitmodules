@@ -28,3 +28,12 @@
 [submodule "sites/all/modules/contrib/module_filter"]
 	path = sites/all/modules/contrib/module_filter
 	url = http://git.drupal.org/project/module_filter.git
+[submodule "sites/all/modules/contrib/migrate"]
+	path = sites/all/modules/contrib/migrate
+	url = http://git.drupal.org/project/migrate.git
+[submodule "sites/all/modules/contrib/migrate_extras"]
+	path = sites/all/modules/contrib/migrate_extras
+	url = http://git.drupal.org/project/migrate_extras.git
+[submodule "sites/all/modules/contrib/field_hidden"]
+	path = sites/all/modules/contrib/field_hidden
+	url = http://git.drupal.org/project/field_hidden.git
