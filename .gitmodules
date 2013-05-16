@@ -10,3 +10,21 @@
 [submodule "sites/all/modules/contrib/features"]
 	path = sites/all/modules/contrib/features
 	url = http://git.drupal.org/project/features.git
+[submodule "sites/all/modules/contrib/admin_menu"]
+	path = sites/all/modules/contrib/admin_menu
+	url = http://git.drupal.org/project/admin_menu.git
+[submodule "sites/all/modules/contrib/devel"]
+	path = sites/all/modules/contrib/devel
+	url = http://git.drupal.org/project/devel.git
+[submodule "sites/all/modules/contrib/entity"]
+	path = sites/all/modules/contrib/entity
+	url = http://git.drupal.org/project/entity.git
+[submodule "sites/all/modules/contrib/jquery_update"]
+	path = sites/all/modules/contrib/jquery_update
+	url = http://git.drupal.org/project/jquery_update.git
+[submodule "sites/all/modules/contrib/libraries"]
+	path = sites/all/modules/contrib/libraries
+	url = http://git.drupal.org/project/libraries.git
+[submodule "sites/all/modules/contrib/module_filter"]
+	path = sites/all/modules/contrib/module_filter
+	url = http://git.drupal.org/project/module_filter.git
