@@ -31,3 +31,9 @@
 [submodule "sites/migrate_social/modules/contrib/field_hidden"]
 	path = sites/migrate_social/modules/contrib/field_hidden
 	url = http://git.drupal.org/project/field_hidden.git
+[submodule "sites/migrate_social/modules/contrib/migrate"]
+	path = sites/migrate_social/modules/contrib/migrate
+	url = http://git.drupal.org/project/migrate.git
+[submodule "sites/migrate_social/modules/contrib/migrate_extras"]
+	path = sites/migrate_social/modules/contrib/migrate_extras
+	url = http://git.drupal.org/project/migrate_extras.git
