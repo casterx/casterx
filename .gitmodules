@@ -7,3 +7,6 @@
 [submodule "sites/migrate_social/modules/custom/migrate_social"]
 	path = sites/migrate_social/modules/custom/migrate_social
 	url = thmnhat@git.drupal.org:sandbox/thmnhat/1995604.git
+[submodule "sites/all/modules/contrib/features"]
+	path = sites/all/modules/contrib/features
+	url = http://git.drupal.org/project/features.git
