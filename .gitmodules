@@ -40,6 +40,3 @@
 [submodule "sites/all/modules/custom/advanced_text_formatter"]
 	path = sites/all/modules/custom/advanced_text_formatter
 	url = thmnhat@git.drupal.org:sandbox/thmnhat/1996874.git
-[submodule "sites/all/modules/contrib/token"]
-	path = sites/all/modules/contrib/token
-	url = http://git.drupal.org/project/token.git
