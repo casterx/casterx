@@ -55,3 +55,6 @@
 [submodule "sites/migrate/modules/contrib/field_hidden"]
 	path = sites/migrate/modules/contrib/field_hidden
 	url = http://git.drupal.org/project/field_hidden.git
+[submodule "sites/migrate/modules/custom/migrate_social"]
+	path = sites/migrate/modules/custom/migrate_social
+	url = thmnhat@git.drupal.org:sandbox/thmnhat/1995604.git

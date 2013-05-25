@@ -55,5 +55,6 @@
  */
 $sites = array(
   'migrate.minhnhat.me'  => 'migrate',
+  'review.minhnhat.me'   => 'review',
   'ubercart.minhnhat.me' => 'ubercart',
 );
