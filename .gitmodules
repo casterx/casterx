@@ -52,3 +52,6 @@
 [submodule "sites/all/modules/contrib/git_deploy"]
 	path = sites/all/modules/contrib/git_deploy
 	url = http://git.drupal.org/project/git_deploy.git
+[submodule "sites/ubercart/modules/contrib/ubercart"]
+	path = sites/ubercart/modules/contrib/ubercart
+	url = http://git.drupal.org/project/ubercart.git
