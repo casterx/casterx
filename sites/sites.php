@@ -55,4 +55,5 @@
  */
 $sites = array(
   'migrate_social.minhnhat.me' => 'migrate_social',
+  'ubercart.minhnhat.me'       => 'ubercart',
 );

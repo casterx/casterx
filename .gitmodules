@@ -39,10 +39,13 @@
 	url = http://git.drupal.org/project/migrate_extras.git
 [submodule "sites/all/modules/custom/advanced_text_formatter"]
 	path = sites/all/modules/custom/advanced_text_formatter
-	url = thmnhat@git.drupal.org:sandbox/thmnhat/1996874.git
+	url = thmnhat@git.drupal.org:project/advanced_text_formatter.git
 [submodule "sites/all/modules/custom/jshint"]
 	path = sites/all/modules/custom/jshint
 	url = thmnhat@git.drupal.org:sandbox/thmnhat/1998202.git
 [submodule "sites/all/modules/contrib/token"]
 	path = sites/all/modules/contrib/token
 	url = http://git.drupal.org/project/token.git
+[submodule "sites/all/modules/custom/casterx"]
+	path = sites/all/modules/custom/casterx
+	url = git@github.com:casterx/casterx-drupal-api.git
