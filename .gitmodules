@@ -46,3 +46,12 @@
 [submodule "sites/all/modules/custom/php_tokens"]
 	path = sites/all/modules/custom/php_tokens
 	url = thmnhat@git.drupal.org:sandbox/thmnhat/2003910.git
+[submodule "sites/migrate/modules/contrib/migrate"]
+	path = sites/migrate/modules/contrib/migrate
+	url = http://git.drupal.org/project/migrate.git
+[submodule "sites/migrate/modules/contrib/migrate_extras"]
+	path = sites/migrate/modules/contrib/migrate_extras
+	url = http://git.drupal.org/project/migrate_extras.git
+[submodule "sites/migrate/modules/contrib/field_hidden"]
+	path = sites/migrate/modules/contrib/field_hidden
+	url = http://git.drupal.org/project/field_hidden.git
