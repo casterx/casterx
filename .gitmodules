@@ -49,3 +49,6 @@
 [submodule "sites/all/modules/custom/casterx"]
 	path = sites/all/modules/custom/casterx
 	url = git@github.com:casterx/casterx-drupal-api.git
+[submodule "sites/all/modules/contrib/git_deploy"]
+	path = sites/all/modules/contrib/git_deploy
+	url = http://git.drupal.org/project/git_deploy.git
