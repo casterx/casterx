@@ -40,3 +40,6 @@ xmlrpc.php
 .DS_Store
 .bak
 *.sublime-*
+
+# Ignore generated files
+sites/migrate_social/modules/contrib/migrate_example_baseball/data/
