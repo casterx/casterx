@@ -4,8 +4,8 @@
 [submodule "sites/all/libraries/twitteroauth"]
 	path = sites/all/libraries/twitteroauth
 	url = git@github.com:casterx/twitteroauth.git
-[submodule "sites/migrate_social/modules/custom/migrate_social"]
-	path = sites/migrate_social/modules/custom/migrate_social
+[submodule "sites/migrate/modules/custom/migrate_social"]
+	path = sites/migrate/modules/custom/migrate_social
 	url = thmnhat@git.drupal.org:sandbox/thmnhat/1995604.git
 [submodule "sites/all/modules/contrib/features"]
 	path = sites/all/modules/contrib/features
@@ -28,14 +28,14 @@
 [submodule "sites/all/modules/contrib/module_filter"]
 	path = sites/all/modules/contrib/module_filter
 	url = http://git.drupal.org/project/module_filter.git
-[submodule "sites/migrate_social/modules/contrib/field_hidden"]
-	path = sites/migrate_social/modules/contrib/field_hidden
+[submodule "sites/migrate/modules/contrib/field_hidden"]
+	path = sites/migrate/modules/contrib/field_hidden
 	url = http://git.drupal.org/project/field_hidden.git
-[submodule "sites/migrate_social/modules/contrib/migrate"]
-	path = sites/migrate_social/modules/contrib/migrate
+[submodule "sites/migrate/modules/contrib/migrate"]
+	path = sites/migrate/modules/contrib/migrate
 	url = http://git.drupal.org/project/migrate.git
-[submodule "sites/migrate_social/modules/contrib/migrate_extras"]
-	path = sites/migrate_social/modules/contrib/migrate_extras
+[submodule "sites/migrate/modules/contrib/migrate_extras"]
+	path = sites/migrate/modules/contrib/migrate_extras
 	url = http://git.drupal.org/project/migrate_extras.git
 [submodule "sites/all/modules/custom/advanced_text_formatter"]
 	path = sites/all/modules/custom/advanced_text_formatter

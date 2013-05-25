@@ -54,6 +54,6 @@
  * @see http://drupal.org/documentation/install/multi-site
  */
 $sites = array(
-  'migrate_social.minhnhat.me' => 'migrate_social',
-  'ubercart.minhnhat.me'       => 'ubercart',
+  'migrate.minhnhat.me'  => 'migrate',
+  'ubercart.minhnhat.me' => 'ubercart',
 );
