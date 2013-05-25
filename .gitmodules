@@ -55,3 +55,6 @@
 [submodule "sites/ubercart/modules/contrib/ubercart"]
 	path = sites/ubercart/modules/contrib/ubercart
 	url = http://git.drupal.org/project/ubercart.git
+[submodule "sites/all/modules/custom/php_tokens"]
+	path = sites/all/modules/custom/php_tokens
+	url = thmnhat@git.drupal.org:sandbox/thmnhat/2003910.git
